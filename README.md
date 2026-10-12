@@ -1,49 +1,19 @@
-Data Analytics Internship Project
+# CareFlow: Clinical Pathway Process Mining
 
-1. Project Overview
+## Project Overview
+This project focuses on analyzing clinical pathway data to understand healthcare processes and identify delays.
 
-This repository contains my Data Analytics internship project. The project focuses on collecting, cleaning, analyzing, and visualizing data to generate meaningful insights.
+## Objectives
+- Analyze clinical pathway data.
+- Identify delays in healthcare workflows.
+- Measure process efficiency.
+- Generate actionable insights using Data Analytics.
 
-2. Project Objectives
-
-- Collect data from relevant sources.
-- Clean and preprocess the data.
-- Perform data analysis using Excel, SQL, and Python.
-- Create interactive dashboards using Power BI.
-- Identify trends and generate useful insights.
-- Prepare reports and document the project workflow.
-
-3. Tools and Technologies
-
-- Microsoft Excel
+## Tools and Technologies
+- Excel
 - SQL
 - Python
 - Power BI
-- GitHub
 
-4. Project Workflow
-
-1. Data Collection
-2. Data Cleaning
-3. Data Analysis
-4. Data Visualization
-5. Dashboard Development
-6. Insights and Reporting
-
-5. Project Progress
-
-- [x] Create GitHub repository
-- [x] Add project overview and objectives
-- [ ] Collect the dataset
-- [ ] Clean and prepare the data
-- [ ] Perform data analysis
-- [ ] Create visualizations and dashboards
-- [ ] Document findings
-
-6. Expected Outcome
-
-The project aims to develop practical Data Analytics skills and present meaningful insights through data analysis, visualizations, and dashboards.
-
-7. Author
-
-Shilpa M B
+## Project Status
+Project setup completed. Data collection and analysis are yet to begin.
